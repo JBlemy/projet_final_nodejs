@@ -267,7 +267,7 @@ span{
 
 .commentaire .texte {
   grid-column: 1 / 2; /* Texte dans la première colonne */
-  text-align: left; /* Alignement à gauche */
+  text-align: justify; /* Alignement à gauche */
   padding: 10px;
   overflow-wrap: break-word; /* Permet au texte de se couper correctement */
   width: 100%; /* Assure que la largeur prend toute la colonne */

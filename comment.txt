@@ -1,42 +1,38 @@
 [
   {
-    "name": "Etudiant",
-    "comment": "pppppppppppppppppoooooooooooooooooooooooooopppppppppppppppppppppppppppppppppoooooooooooooooooooooooooooooppppppppppppppppppppppppppppppppppppppooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooopppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp"
+    "name": "Saelle Morandy",
+    "comment": "Excellent service ! Je suis vraiment impressionné par la rapidité et la qualité de la livraison. Merci beaucoup !"
+  },
+    {
+    "name": "Banesta Andre",
+    "comment": "Service clientèle au top ! Ils ont répondu à toutes mes questions rapidement et de manière très professionnelle."
   },
   {
-    "name": "JB",
-    "comment": "sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+    "name": "Matheo Abraham",
+    "comment": "L'interface du site est très conviviale et facile à naviguer. C'est un plaisir de parcourir les différentes sections."
   },
   {
-    "name": "Joseph Blemy",
-    "comment": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    "name": "Debora Larose",
+    "comment": "J'ai trouvé exactement ce que je cherchais grâce à la diversité des produits disponibles. Très satisfait de mon achat !"
+  },
+    {
+    "name": "Anne-ruth Larose",
+    "comment": "Les photos des produits sont très claires et reflètent parfaitement la réalité. Pas de mauvaises surprises à la réception."
   },
   {
-    "name": "Joseph Blemy",
-    "comment": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "name": "Hancy Joseph",
+    "comment": "Le contenu de ce site est incroyablement informatif et bien écrit. J'apprends toujours quelque chose de nouveau à chaque visite."
   },
   {
-    "name": "Hito",
-    "comment": "Lalo"
+    "name": "Blemy Joseph",
+    "comment": "Les produits proposés sont de très bonne qualité. Je recommande vivement à tous ceux qui cherchent des articles fiables et durables."
   },
   {
-    "name": "Mikendy",
-    "comment": "Revision des commentires"
+    "name": "Illa Ledix",
+    "comment": "Je suis ravi de ma première expérience d'achat ici. Le processus était fluide et sans tracas. Je reviendrai certainement !"
   },
   {
-    "name": "@Ing.Informatique",
-    "comment": "Je suis content."
-  },
-  {
-    "name": "Romulus",
-    "comment": "Respect"
-  },
-  {
-    "name": "Lele",
-    "comment": "Cordialement"
-  },
-  {
-    "name": "Joseph Blemy",
-    "comment": "Merci pour votre aide"
+    "name": "Arisno Normil",
+    "comment": "Les articles de blog sont toujours pertinents et captivants. Continuez votre excellent travail !"
   }
 ]
