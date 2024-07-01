@@ -251,12 +251,11 @@ span{
   background: rgb(51, 51, 51);
   height: 100%;
 }
-
+/*______affichage commentaire___________________________*/
 .commentaire {
   display: grid;
-  grid-template-columns: 1fr 80px; /* Une colonne pour le texte (1fr) et une pour l'image (80px) */
-  align-items: center; /* Centre verticalement */
-  justify-items: center; /* Centre horizontalement */
+  grid-template-columns: 80% 20%; /* Une colonne pour le texte (80%) et une pour l'image (20%) */
+  align-items: center; /* Centre verticalement les éléments */
   width: 60%;
   margin: 2% auto 10px auto;
   background-color: #f9f9f9;
@@ -271,9 +270,8 @@ span{
   text-align: left; /* Alignement à gauche */
   padding: 10px;
   overflow-wrap: break-word; /* Permet au texte de se couper correctement */
-  align-self: center; /* Centre verticalement */
-  max-width: 100%; /* Empêche le texte de déborder */
   width: 100%; /* Assure que la largeur prend toute la colonne */
+  box-sizing: border-box; /* Assure que le padding est inclus dans la largeur totale */
 }
 
 .commentaire .details {
@@ -282,6 +280,7 @@ span{
   flex-direction: column;
   align-items: center; /* Centre horizontalement */
   justify-content: center; /* Centre verticalement */
+  padding-left: 10px; /* Ajouter du padding à gauche pour décaler vers la droite */
 }
 
 .commentaire .details .avatar {
@@ -308,7 +307,8 @@ span{
   white-space: nowrap; /* Empêche le texte de se casser en plusieurs lignes */
   overflow: hidden; /* Masque le débordement */
   text-overflow: ellipsis; /* Ajoute des points de suspension si le texte est trop long */
-  margin-left: -50%;
+  width: 100%; /* Assure que la largeur prend toute la colonne */
+  margin-left: 5px; /* Ajouter une marge à gauche pour décaler vers la droite */
 }
 
 .commentaire .details .titre {
@@ -328,14 +328,8 @@ span{
   font-size: 14px;
   color: black;
   max-width: 100%; /* Empêche le texte de déborder */
+  box-sizing: border-box; /* Assure que le padding est inclus dans la largeur totale */
 }
-
-
-
-
-
-
-
 
 /*__________________________________Proprietes nos offres_____________________________________________*/
 
@@ -516,11 +510,6 @@ button:hover {
   color: black;
   font-size: 17px;
 }
-
-
-
-
-
 
 
 
